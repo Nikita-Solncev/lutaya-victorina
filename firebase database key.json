@@ -1,0 +1,7 @@
+This secret key needs to be downloaded and will be available at Project Settings -> Service Accounts -> Generate a new private key
+
+A JSON file will be downloaded and it needs can be placed in the same folder as your python script.
+
+https://medium.com/theleanprogrammer/connecting-firebase-6102ef4eca08
+
+https://firebase.google.com/?hl=en

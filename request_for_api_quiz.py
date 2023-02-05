@@ -3,7 +3,7 @@ import json
 
 def get_questions_from_api() -> None:
     """
-    Функция обращаеться к сайту lifeis.porn по апи и записывает полученные вопросы в questions.json
+    Функция обращаеться к апи сайта lifeis.porn и записывает полученные вопросы в questions.json
     """
 
     #Выбираем сложность вопроса
